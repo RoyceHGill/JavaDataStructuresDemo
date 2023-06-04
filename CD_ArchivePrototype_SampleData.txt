@@ -1,0 +1,13 @@
+ID;Title;Author;Section;X;Y;BarCode;Description;OnLoan
+1;Busn History 2015;Management;B;1;6;43783278;Business History - tax records, events and achievements in 2015;No
+2;Busn History 2016;Management;B;1;5;43783279;Business History - tax records, events and achievements in 2016;No
+3;Busn History 2017;Management;B;1;4;43784280;Business History - tax records, events and achievements in 2017;No
+4;Client A's Project;Dev Team;D;4;7;43784761;Client A's project files and copyright material.;Yes
+5;Client A's Testing Records;Testing Team;T;2;18;43784880;Client A's project test plan, test cases and associated emails;No
+12;Busn History 2023;Management;B;1;7;05061923;Business History;Yes
+7;HRM Records 2017;HR Team;B;1;2;43785102;Our business' 2017 human resource management records;No
+8;Marketing Records 2017;Marketing;B;1;1;43785367;Our business' 2017 marketing and sales records;No
+9;Client B's Project;Dev Team;D;4;15;43785444;Client B's project files and copyright material;No
+10;Client A's Testing Records;Testing Team;T;2;32;43785445;Client B's project test plan, test cases and associated emails;No
+4;Client A's Project;Dev Team;D;4;7;43784761;Client A's project files and copyright material.;Yes
+12;Busn History 2023;Management;B;1;7;05061923;Business History;No
